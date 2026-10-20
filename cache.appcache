@@ -1,9 +1,11 @@
 CACHE MANIFEST
-# MOSGAME jailbreak Arabic design v3.2 - 2026-10-20
+# WESAM reference poster v4.0 - 2026-10-20
 
 
 
 CACHE:
+assets/repair-poster.jpg
+assets/repair-poster.css
 index.html
 assets/mosgame-mark.svg
 assets/mosgame.css
